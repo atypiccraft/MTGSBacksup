@@ -1,5 +1,4 @@
 #!/usr/bin/python
-''' a comment yay'''
 """ setting up config parser for persistence""" 
 
 import ConfigParser
